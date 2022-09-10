@@ -2,7 +2,7 @@
  *
  *  * File: 7-print_tebahpla.c
  *
- *   * Auth: BRyan ElHassan
+ *   * Auth: Ryan ElHassan
  *
  *    */
 
