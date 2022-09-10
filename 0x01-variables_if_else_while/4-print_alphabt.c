@@ -2,14 +2,9 @@
  *
  *  * File: 4-print_alphabt.c
  *
- *
  *    */
 
-
-
 #include <stdio.h>
-
-
 
 /**
  *
@@ -37,7 +32,9 @@ int main(void)
 
 												putchar(letter);
 
-									
+									}
+
+
 
 				putchar('\n');
 
