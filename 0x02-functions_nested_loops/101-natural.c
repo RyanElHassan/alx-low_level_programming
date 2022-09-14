@@ -1,14 +1,9 @@
 /*
- *
  *  * File: 101-natural.c
  *
  *    */
 
-
-
-#include <main.h>
-
-
+#include <stdio.h>
 
 /**
  *
