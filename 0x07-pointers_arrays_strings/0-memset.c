@@ -1,12 +1,11 @@
 #include "main.h"
 
-void *_memset(void *s, int c, size_t n)
+char *_memset(char *s, int b, unsigned int n)
 {
-	unsigned int index; 
-	unsigned char *memory = s, value = c;
-
-	for (index = 0; index < n; index++)
-		memory[index] = value; 
-
-	return (memory); 
+	while (n)
+	{
+		s[n - 1] = b;
+		n--
+	}
+	return(s);
 }
