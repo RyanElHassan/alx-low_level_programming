@@ -1,1 +1,1 @@
-Hello C world
+argc&argv
